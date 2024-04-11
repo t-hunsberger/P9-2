@@ -37,7 +37,7 @@ bool hasDuplicates(int values[], int size) {
     }
     return false;
 }
-     
+      
 int main() {
     int arr[6];
 
